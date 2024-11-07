@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test changes calculator type","3589","Test1:Change Calculator Type","test_cases","Wed Nov 06 15:19:59 IST 2024","passed","Wed Nov 06 15:20:02 IST 2024","TestDesktop","test_desktop","",""
+"This test verify result as 0","1720","Test4:Clear Result","test_cases","Wed Nov 06 15:20:09 IST 2024","passed","Wed Nov 06 15:20:10 IST 2024","TestDesktop","test_desktop","",""
+"Convert hours in minutes, verify it, calculate and clear it","3405","Test3Calculate Minutes In Hours","test_cases","Wed Nov 06 15:20:05 IST 2024","passed","Wed Nov 06 15:20:09 IST 2024","TestDesktop","test_desktop","",""
+"This test convert top line to hours and bottom line to minutes","3016","Test2:Convert Hours To Minutes","test_cases","Wed Nov 06 15:20:02 IST 2024","passed","Wed Nov 06 15:20:05 IST 2024","TestDesktop","test_desktop","",""

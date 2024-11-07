@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ENVIRONMENT>
+    <!--Web -->
+    <Wait>5</Wait>
+    <ScreenShotPath>./../allure-screen-shots/</ScreenShotPath>
+    <BrowserData>chrome</BrowserData>
+    <UrlWeb>AtidStore</UrlWeb>
+    <UrlTesting>https://demo.nopcommerce.com</UrlTesting>
+    <UrlTestingAtid>https://atid.store/</UrlTestingAtid>
+    <CSV_Location_Atid>C:\development\PythonAtidAutomation\final_project_infrastructure\ddt\log_in_atid.csv</CSV_Location_Atid>
+    <CSV_Location>C:\development\PythonAtidAutomation\final_project_infrastructure\ddt\log_in.csv</CSV_Location>
+    <ApplitoolsAPIKey>oJ99qcPy2XgiFojdachZ1aQR7aVFbw5jESz3jsd6TIRg110</ApplitoolsAPIKey>
+    <ExecuteApplitools>False</ExecuteApplitools> <!--True, False for ExecuteApplitools -->
+    <!--Mobile -->
+    <PlatformName>Android</PlatformName>
+    <Udid>RZCX1257KFX</Udid>
+    <BundleId>com.nopcommerce.nopcommerce_mobile</BundleId>
+    <AppPackage>com.nopcommerce.nopcommerce_mobile</AppPackage>
+    <AppActivity>.MainActivity</AppActivity>
+    <AppiumServer>http://localhost:4723/wd/hub</AppiumServer>
+    <SwipeDuration>200</SwipeDuration>
+    <!--API -->
+    <Url>https://reqres.in/</Url>
+    <ParamUsers>api/users</ParamUsers>
+    <ParamRegister>api/register</ParamRegister>
+    <!--Electron -->
+    <ElectronDriver>C:\development\electrondriver-v3.1.2-win32-x64\electrondriver.exe</ElectronDriver>
+    <ElectronApp>C:\Users\flowe\AppData\Local\Programs\todolist\Todolist.exe</ElectronApp>
+    <!--Desktop -->
+    <AppName>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</AppName>
+    <WinAppDriverService>http://127.0.0.1:4723</WinAppDriverService>
+    <!--Database -->
+    <DatabaseName>sql7732040</DatabaseName>
+    <DatabaseHost>sql7.freemysqlhosting.net</DatabaseHost>
+    <DatabaseUser>sql7732040</DatabaseUser>
+    <DatabasePassword>g62LyFF5vk</DatabasePassword>
+    <UrlTestingDB>https://atidcollege.co.il/workshops/avengers/exercise/</UrlTestingDB>
+
+
+
+
+</ENVIRONMENT>
