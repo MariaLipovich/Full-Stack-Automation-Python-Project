@@ -5,6 +5,9 @@ Project Overview:
 
 This project showcases a full-stack automation testing suite, combining a range of platforms, tools, and frameworks that together reflect the skills I acquired from the "Full Stack Automation Python" course at AtidAutomation. The project spans across web, mobile, electron applications and desktop applications, employing various automation and testing techniques to ensure comprehensive test coverage and quality assurance which i describes below.
 
+The following video presents the running test cases in Jenkins:
+https://github.com/user-attachments/assets/e3c00986-2832-426f-ada3-7692244f5080
+
 The testing types involved in this project, frameworks and tools in within them works in this project:
 
 Web Testing: I chose several sites for performing this type it were: AtidStore and NopCommerce. later the website NopCommerce stopped supporting automation, so I made further launches in Jenkins for atidStore. 
@@ -47,8 +50,7 @@ Automation tools and development:PyCharm, eyes
 ![Screenshot (1)](https://github.com/user-attachments/assets/d90ff189-842e-414e-b72f-962ca580250c)
 
 
-The following video presents the running test cases in Jenkins:
-https://github.com/user-attachments/assets/e3c00986-2832-426f-ada3-7692244f5080
+
 
 
 
